@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "couchbase",
+      "type": "com.trendyolbootcamp.linkedinclonecompany.config.CouchbaseProperties",
+      "sourceType": "com.trendyolbootcamp.linkedinclonecompany.config.CouchbaseProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "couchbase.bucket-name",
+      "type": "java.lang.String",
+      "sourceType": "com.trendyolbootcamp.linkedinclonecompany.config.CouchbaseProperties"
+    },
+    {
+      "name": "couchbase.host",
+      "type": "java.lang.String",
+      "sourceType": "com.trendyolbootcamp.linkedinclonecompany.config.CouchbaseProperties"
+    },
+    {
+      "name": "couchbase.password",
+      "type": "java.lang.String",
+      "sourceType": "com.trendyolbootcamp.linkedinclonecompany.config.CouchbaseProperties"
+    },
+    {
+      "name": "couchbase.user-name",
+      "type": "java.lang.String",
+      "sourceType": "com.trendyolbootcamp.linkedinclonecompany.config.CouchbaseProperties"
+    }
+  ],
+  "hints": []
+}

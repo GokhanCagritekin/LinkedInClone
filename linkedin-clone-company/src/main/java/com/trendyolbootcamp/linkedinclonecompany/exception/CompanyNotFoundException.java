@@ -1,0 +1,13 @@
+package com.trendyolbootcamp.linkedinclonecompany.exception;
+
+
+
+public class CompanyNotFoundException extends RuntimeException {
+
+    public CompanyNotFoundException(String message) {
+        super(message);
+    }
+}
+
+
+
